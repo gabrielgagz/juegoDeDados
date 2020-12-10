@@ -1,7 +1,7 @@
 from random import randrange
 
 def playAgain():
-    pregunta = input("Presioná ENTER para tirar los dados nuevamente.")
+    input("Presioná ENTER para tirar los dados nuevamente.")
     throwDice()
 
 def throwDice():
